@@ -6,7 +6,7 @@
 <div>
   <div style="display: inline-block">
     <img align="center" alt="Marcos-Downs" height="30" width="100" src="https://img.shields.io/github/downloads/{marcosoaresac}/{Experiencias
-}/total.svg">
+}/WhatsappBot.svg">
   </div>
 </div>
 
