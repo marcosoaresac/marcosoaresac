@@ -2,10 +2,10 @@
   <h2>Olá me chamo Marcos Soares, sejam bem vindos !</h2>
   
 </div>
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=highcontrast)
-</div>
 <div align="center">
+  
   <div style="display: inline-block">
     <br>
     <img align="center" alt="Marcos-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
