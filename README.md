@@ -54,4 +54,4 @@
 </p>
 
 ---
-
+<a> Estudando Automações em Python </s>
