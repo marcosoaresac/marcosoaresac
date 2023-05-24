@@ -1,5 +1,3 @@
-# Experiencias
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -17,9 +15,25 @@
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     }
-    h1 {
-      color: #333;
+    h2 {
+      color: #ff6600;
       text-align: center;
+    }
+    .stats {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .stats img {
+      height: 180px;
+    }
+    .skills {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .skills img {
+      height: 30px;
+      width: 40px;
+      margin: 0 10px;
     }
     .social-icons {
       text-align: center;
@@ -33,20 +47,34 @@
       transition: color 0.3s ease;
     }
     .social-icons a:hover {
-      color: #007bff;
+      color: #ff6600;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Personal Information</h1>
-    <p>Name: John Doe</p>
-    <p>Email: johndoe@example.com</p>
-    <p>Phone: 123-456-7890</p>
+    <div align="center">
+      <h2>Seja bem-vindo!</h2>
+    </div>
+    <div class="stats">
+      <a href="https://github.com/formandodev">
+        <img src="https://github-readme-stats.vercel.app/api?username=formandodev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats">
+      </a>
+    </div>
+    <div class="skills">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+    </div>
     <div class="social-icons">
-      <a href="https://www.facebook.com/yourusername" target="_blank"><img src="facebook.png" alt="Facebook"></a>
-      <a href="https://www.instagram.com/yourusername" target="_blank"><img src="instagram.png" alt="Instagram"></a>
-      <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="linkedin.png" alt="LinkedIn"></a>
+      <a href="https://www.instagram.com/yourusername" target="_blank">
+        <img src="instagram.png" alt="Instagram">
+      </a>
+      <a href="https://www.facebook.com/yourusername" target="_blank">
+        <img src="facebook.png" alt="Facebook">
+      </a>
+      <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+        <img src="linkedin.png" alt="LinkedIn">
+      </a>
     </div>
   </div>
 </body>
