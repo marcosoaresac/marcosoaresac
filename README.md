@@ -24,6 +24,13 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/marcosoaresac/Experiencias/releases">
+    <img src="https://img.shields.io/github/downloads/marcosoaresac/Experiencias/WhatsappBot.svg" target="_blank">
+  </a>
+</div>
+<br>
+
+<div align="center">
   <div style="display: inline-block">
     <br>
     <img align="center" alt="Marcos-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -33,11 +40,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/marcosoaresac/Experiencias/releases">
-    <img src="https://img.shields.io/github/downloads/marcosoaresac/Experiencias/WhatsappBot.svg" target="_blank">
-  </a>
-</div>
 
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/marcosoaresac/count.svg">
