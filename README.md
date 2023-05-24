@@ -5,8 +5,8 @@
 
 <div>
   <div style="display: inline-block">
-    <img align="center" alt="WhatsAppBot" height="30" width="100" src="https://img.shields.io/github/downloads/{marcosoaresac}/{Experiencias
-}/WhatsappBot.svg">
+  [![Downloads](https://img.shields.io/github/downloads/{marcosoaresac}/{Experiencias
+  }/WhatsappBot.svg)]
   </div>
 </div>
 
