@@ -21,7 +21,7 @@
 </div>
 <br>
 
-[![Downloads](https://img.shields.io/github/downloads/marcosoaresac/Experiencias/total.svg)](https://github.com/marcosoaresac/Experiencias/releases)
+[![Downloads](https://img.shields.io/github/downloads/marcosoaresac/Experiencias/WhatsappBot.svg)](https://github.com/marcosoaresac/Experiencias/releases)
 
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/marcosoaresac/count.svg">
