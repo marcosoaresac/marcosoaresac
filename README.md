@@ -2,9 +2,9 @@
   <h2>Olá me chamo Marcos Soares, sejam bem vindos !</h2>
   
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=dracula)
-
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=highcontrast)
+</div>
 <div align="center">
   <div style="display: inline-block">
     <br>
