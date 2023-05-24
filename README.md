@@ -1,5 +1,5 @@
-<div align="center">
-  <h2>Olá, me chamo Marcos Soares, sejam bem-vindos!</h2>
+<div align="center" style="background-color: #FFA500; padding: 10px;">
+  <h2 style="color: white;">Olá, me chamo Marcos Soares, sejam bem-vindos!</h2>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=onedark">
 </div>
 <br>
 <div align="center">
