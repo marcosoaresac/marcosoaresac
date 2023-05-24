@@ -40,6 +40,7 @@
     <a href="https://www.javascript.com" target="_blank">
       <img align="center" alt="Marcos-Javascript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
+    <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop" style="width: 100px; height: 30px;">
   </div>
 </div>
 
@@ -51,10 +52,3 @@
 
 ---
 
-Você também pode adicionar mais elementos interativos ao seu perfil, como:
-
-- [Badges](https://shields.io/): Adicione mais informações sobre suas habilidades, projetos e estatísticas usando os badges.
-- [GitHub Contribution Graph](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-contribution-graphs-on-your-profile): Exiba um gráfico de contribuições do GitHub em seu perfil.
-- [GitHub Trophies](https://github.com/ryo-ma/github-profile-trophy): Mostre seus troféus e conquistas do GitHub em seu perfil.
-
-Essas são apenas algumas sugestões para tornar seu perfil ainda mais interessante e interativo. Sinta-se à vontade para explorar diferentes recursos e personalizar seu perfil de acordo com suas preferências.
