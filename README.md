@@ -3,7 +3,7 @@
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=synthwave)
 
 <div align="center">
   <div style="display: inline-block">
