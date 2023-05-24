@@ -3,12 +3,7 @@
   
 </div>
 
-<div>
-  <div style="display: inline-block">
-  [![Downloads](https://img.shields.io/github/downloads/{marcosoaresac}/{Experiencias
-  }/WhatsappBot.svg)]
-  </div>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=radical)
 
 <div align="center">
   <div style="display: inline-block">
