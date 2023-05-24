@@ -20,6 +20,7 @@
   </div>
 </div>
 <br>
+
 [![Downloads](https://img.shields.io/github/downloads/marcosoaresac/Experiencias/total.svg)](https://github.com/marcosoaresac/Experiencias/releases)
 
 <p align="center">
