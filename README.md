@@ -40,7 +40,10 @@
     <a href="https://www.javascript.com" target="_blank">
       <img align="center" alt="Marcos-Javascript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
-    <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop" style="width: 100px; height: 30px;">
+    <a href="https://www.adobe.com" target="_blank">
+      <img align="center" alt="Marcos-Ps" height="30" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
+    </a>
+    
   </div>
 </div>
 
