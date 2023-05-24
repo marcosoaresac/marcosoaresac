@@ -18,11 +18,10 @@
 </div>
 
 <br>
-<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=dracula">
 </div>
-
+<br>
 <div align="center">
   <a href="https://github.com/marcosoaresac/Experiencias/releases">
     <img src="https://img.shields.io/github/downloads/marcosoaresac/Experiencias/WhatsappBot.svg" target="_blank">
