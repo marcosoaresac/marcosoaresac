@@ -26,15 +26,18 @@
 
 <br>
 
-[![Downloads](https://img.shields.io/github/downloads/marcosoaresac/Python/total.svg)](https://github.com/marcosoaresac/Python/releases)
-
+<div align="center">
+  <h2>Bot Whatsapp</h2>
+  <a href="https://github.com/marcosoaresac/Python/releases">
+    <img src="https://img.shields.io/github/downloads/marcosoaresac/Python/total.svg" target="_blank">
+  </a>
+</div>
 
 <br>
 
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/marcosoaresac/count.svg">
 </p>
-
 ---
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
