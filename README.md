@@ -1,5 +1,5 @@
 <div align="center" style="background-color: #FFA500; padding: 10px;">
-  <h2 style="color: white;">Olá, me chamo Marcos Soares, sejam bem-vindos!</h2>
+  
 </div>
 
 <div align="center">
