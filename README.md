@@ -24,21 +24,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marcosoaresac&show_icons=true&theme=dracula">
 </div>
 
-<br>
+<br />
+
 
 <div align="center">
-  <h2>Bot Whatsapp</h2>
-  <a href="https://github.com/marcosoaresac/Python/releases">
-    <img src="https://img.shields.io/github/downloads/marcosoaresac/Python/total.svg" target="_blank">
+    <h2><img src="https://em-content.zobj.net/thumbs/160/microsoft/319/inbox-tray_1f4e5.png" width="30" height="30" target="_blank">        Bot Whatsapp </h2>
+  <a href="https://github.com/marcosoaresac/marcosoaresac/releases">
+    <img src="https://img.shields.io/github/downloads/marcosoaresac/marcosoaresac/total.svg"  width="100" height="28" target="_blank">
   </a>
 </div>
 
-<br>
+<br />
 
 <p align="center">
-  <img align="center" src="https://profile-counter.glitch.me/marcosoaresac/count.svg">
+ <img align="center" src="https://profile-counter.glitch.me/marcosoaresac/count.svg">
 </p>
----
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
