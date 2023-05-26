@@ -32,22 +32,6 @@
   </a>
 </div>
 
-<div align="center">
-  <div style="display: inline-block">
-    <br>
-    <a href="https://www.python.org" target="_blank">
-      <img align="center" alt="Marcos-Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    <a href="https://www.javascript.com" target="_blank">
-      <img align="center" alt="Marcos-Javascript" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    </a>
-    <a href="https://www.adobe.com" target="_blank">
-      <img align="center" alt="Marcos-Ps" height="30" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
-    </a>
-    
-  </div>
-</div>
-
 <br>
 
 <p align="center">
@@ -55,4 +39,12 @@
 </p>
 
 ---
-<a> Estudando Automações em Python </s>
+<p align="center">
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white).
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+</p>
