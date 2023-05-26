@@ -26,11 +26,8 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/marcosoaresac/Experiencias/releases">
-    <img src="https://img.shields.io/github/downloads/marcosoaresac/Experiencias/WhatsappBot.svg" target="_blank">
-  </a>
-</div>
+[![Downloads](https://img.shields.io/github/downloads/marcosoaresac/Python/total.svg)](https://github.com/marcosoaresac/Python/releases)
+
 
 <br>
 
